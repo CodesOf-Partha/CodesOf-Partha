@@ -1,7 +1,5 @@
 ### Parthasarathi
 
-[![HitCount](http://hits.dwyl.com/codesof-partha/codesof-partha.svg)](http://hits.dwyl.com/codesof-partha/codesof-partha)
-
 [![Twitter Badge](https://img.shields.io/badge/-@rvparthasarathi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rvparthasarathi)](https://twitter.com/rvparthasarathi) [![Linkedin Badge](https://img.shields.io/badge/-iampartha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iampartha/)](https://www.linkedin.com/in/iampartha/) 
 [![Gmail Badge](https://img.shields.io/badge/-rvparthasarathi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvparthasarathi@gmail.com)](mailto:rvparthasarathi@gmail.com)
 ---
