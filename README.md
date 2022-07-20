@@ -5,7 +5,7 @@
 ---
 ### Hola Amigo👋
 ---
-I am Parthasarathi, a Computer Science and Engineering Undergrad working in Bhanzu as a MERN stack developer. I am a Programmer, and always excited to learn new stuffs 👨🏻‍🎓. 
+I am Parthasarathi, a Computer Science and Engineering Undergrad working in Bhanzu as a SDE-III MERN stack developer. I am a Programmer, and always excited to learn new stuffs 👨🏻‍🎓. 
 
 ```
 Programmer (noun): A machine that turns coffee into code.
