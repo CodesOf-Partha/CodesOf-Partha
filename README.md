@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Parthasarathi</h1>
 <p align="center">
-  <em>Developer | Open-Source Enthusiast | UI/UX Explorer | Lifelong Learner</em>
+  <em>Developer | Open-Source Enthusiast | Full Stack Explorer | Lifelong Learner</em>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ const partha = {
 
 ### 📬 Let's Connect!
 
-I'm always open to ideas, collaborations or just geeking out. Feel free to connect on [LinkedIn](https://linkedin.com/in/iampartha), check my [GitHub](https://github.com/CodesOf-Partha), or just drop a quick [email](mailto:rvparthasarathi@gmail.com).
+I'm always open to ideas, collaborations or just geeking out. Feel free to connect on [LinkedIn](https://linkedin.com/in/iampartha) or just drop a quick [email](mailto:rvparthasarathi@gmail.com).
 
 ---
 
