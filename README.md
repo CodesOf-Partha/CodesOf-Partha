@@ -23,7 +23,7 @@
 const partha = {
   code: ["Javascript", "Typescript", "React", "Node", "Next.js", "MongoDB", "Python", "DynamoDB"],
   tools: ["VSCode", "Postman", "Figma", "Git", "Docker", "Cursor", "Claude"],
-  currentRole: "SDE-III at Bhanzu",
+  currentRole: "SDE-IV at Bhanzu",
   loves: ["Building side-projects", "Design to Code", "Problem Solving", "Debugging 🪲"],
 }
 ```
