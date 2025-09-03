@@ -33,7 +33,7 @@ const partha = {
 ### 🧩 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-github-readme-stats-dcnm9aw8r-parths-projects-0241f5ab.vercel.app/api?username=CodesOf-Partha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> </br></br>
+  <img src="https://github-readme-stats-dcnm9aw8r-parths-projects-0241f5ab.vercel.app/api?username=CodesOf-Partha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> </br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodesOf-Partha&theme=radical" width="48%"/>
 </div>
 
