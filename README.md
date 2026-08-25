@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Parthasarathi</h1>
+<h2 align="center">Hey 👋, I'm Parthasarathi</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6F7BF7&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer+(SDE-IV);Full-Stack+%2B+Applied+AI+Engineering;Leading+a+team+of+5+at+Bhanzu;Shipping+RAG+chatbots+%26+LLM+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6F7BF7&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer+(SDE-IV);Full-Stack+%2B+Applied+AI+Engineering;Leading+a+team+of+5+at+Bhanzu;Shipping+RAG+chatbots+%26+LLM+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ const partha = {
   <img src="https://raw.githubusercontent.com/CodesOf-Partha/CodesOf-Partha/github-metrics/github-metrics.svg" alt="GitHub metrics" width="720"/>
 </p>
 
-<sub>Self-hosted via a scheduled [GitHub Action](.github/workflows/metrics.yml) using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — regenerated daily and committed straight to this repo, so it never depends on a third-party demo server's uptime.</sub>
+<sub>Self-hosted via a scheduled [GitHub Action](.github/workflows/metrics.yml) using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — regenerated daily and committed straight to this repo. Activity totals are consolidated across all 8 years on GitHub (not just the current year); the contribution calendar shows the trailing 12 months, GitHub's own max window for that view.</sub>
 
 ---
 
