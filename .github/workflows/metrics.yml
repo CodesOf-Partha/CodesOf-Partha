@@ -24,9 +24,34 @@ jobs:
           committer_message: "chore: refresh github-metrics.svg [skip ci]"
 
           template: classic
-          base: "header, activity, community, repositories, metadata"
+          base: "header, activity, community, metadata"
           base_indepth: yes
           config_timezone: Asia/Kolkata
+          config_display: large
+          config_padding: "24, 24, 24"
+
+          extras_css: |
+            svg {
+              background: #0a1120;
+              color: #99a5c2;
+              font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+            }
+            h1, h2, h3 {
+              color: #e9edf7 !important;
+              font-weight: 700;
+            }
+            h1 { border-bottom: 1px solid rgba(148,163,184,0.16); padding-bottom: 8px; }
+            a, .blue { color: #22d3ee !important; }
+            .field.language .name { color: #cbd5f0; }
+            .label {
+              background: rgba(129,140,248,0.16) !important;
+              color: #a5b4fc !important;
+              border: 1px solid rgba(129,140,248,0.3);
+            }
+            .gauge-base { stroke: rgba(148,163,184,0.15); }
+            .gauge-arc.info { stroke: #22d3ee; }
+            .gauge-arc.high { stroke: #34d399; }
+            .avatar, .organization.avatar { border: 2px solid rgba(129,140,248,0.4); }
 
           plugin_languages: yes
           plugin_languages_indepth: yes
