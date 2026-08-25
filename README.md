@@ -1,14 +1,17 @@
 <h1 align="center">Hey 👋, I'm Parthasarathi</h1>
 <p align="center">
-  <em>Developer | Open-Source Enthusiast | Full Stack Explorer | Lifelong Learner</em>
+  <em>Senior Software Engineer (SDE-IV) · Full-Stack & Applied AI Engineering</em>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/rvparthasarathi">
-    <img src="https://img.shields.io/badge/-@rvparthasarathi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://codesof-partha.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-codesof--partha.github.io-6f7bf7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/iampartha/">
     <img src="https://img.shields.io/badge/-iampartha-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rvparthasarathi">
+    <img src="https://img.shields.io/badge/-@rvparthasarathi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:rvparthasarathi@gmail.com">
     <img src="https://img.shields.io/badge/-rvparthasarathi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
@@ -21,12 +24,25 @@
 
 ```ts
 const partha = {
-  code: ["Javascript", "Typescript", "React", "Node", "Next.js", "MongoDB", "Python", "DynamoDB"],
-  tools: ["VSCode", "Postman", "Figma", "Git", "Docker", "Cursor", "Claude"],
-  currentRole: "SDE-IV at Bhanzu",
-  loves: ["Building side-projects", "Design to Code", "Problem Solving", "Debugging 🪲"],
+  role: "SDE-IV @ Bhanzu — leading a team of 5 across platform architecture",
+  experience: "6.5+ years, ed-tech & B2B SaaS",
+  code: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js"],
+  ai: ["OpenAI API", "LangChain", "RAG pipelines", "Prompt engineering", "LLM product design"],
+  cloud: ["AWS (Lambda, EKS, DynamoDB, S3, SQS)", "Docker", "Kubernetes", "ArgoCD"],
+  loves: ["Shipping AI products end-to-end", "System design", "Mentoring", "Debugging 🪲"],
 }
 ```
+
+---
+
+### 🚀 Featured builds
+
+- **[DoubtGPT](https://codesof-partha.github.io/#projects)** — curriculum-grounded RAG chatbot (OpenAI + LangChain) resolving student doubts in real time
+- **Bhanzu AI Writer** — hackathon-winning OpenAI tool that collapsed a 5-team manual workflow into a 1-minute automated run
+- **Ed-Reels** — OpenAI + Manim pipeline that auto-generates short-form math explainer videos
+- **Bhanzu Platform Suite** — 5 internal platforms (Admin, Student, CLM, LiveOps, Maverick) built from scratch on React/Next.js + microservices
+
+📄 Full write-ups, experience timeline, and résumé: **[codesof-partha.github.io](https://codesof-partha.github.io)**
 
 ---
 
@@ -39,12 +55,11 @@ const partha = {
 
 ---
 
-### 🚀 Currently Exploring
+### 🔭 Currently exploring
 
-- 🛠️ Vite, OpenAI, Artificial Intelligence, Machine Learning
-- ⚡️ Improving performance with Web Vitals
-- 📦 Microservices, Clean Architecture
-- 🎨 ShadCN UI & custom design systems
+- 🤖 Applied Generative AI — RAG, agentic workflows, LLM product design
+- ⚙️ Platform architecture & system design at scale
+- 🧭 Mentoring engineers and raising the bar on code review discipline
 
 ---
 
@@ -59,7 +74,7 @@ const partha = {
 
 ### 📬 Let's Connect!
 
-I'm always open to ideas, collaborations or just geeking out. Feel free to connect on [LinkedIn](https://linkedin.com/in/iampartha) or just drop a quick [email](mailto:rvparthasarathi@gmail.com).
+Open to senior full-stack and applied-AI roles. Reach out on [LinkedIn](https://www.linkedin.com/in/iampartha/), check out my [portfolio](https://codesof-partha.github.io), or drop a quick [email](mailto:rvparthasarathi@gmail.com).
 
 ---
 
