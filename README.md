@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Parthasarathi</h1>
+
 <p align="center">
-  <em>Senior Software Engineer (SDE-IV) · Full-Stack & Applied AI Engineering</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6F7BF7&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer+(SDE-IV);Full-Stack+%2B+Applied+AI+Engineering;Leading+a+team+of+5+at+Bhanzu;Shipping+RAG+chatbots+%26+LLM+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,6 +27,7 @@
 const partha = {
   role: "SDE-IV @ Bhanzu — leading a team of 5 across platform architecture",
   experience: "6.5+ years, ed-tech & B2B SaaS",
+  impact: "Automated a 5-team content workflow into a 1-minute AI pipeline",
   code: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js"],
   ai: ["OpenAI API", "LangChain", "RAG pipelines", "Prompt engineering", "LLM product design"],
   cloud: ["AWS (Lambda, EKS, DynamoDB, S3, SQS)", "Docker", "Kubernetes", "ArgoCD"],
@@ -33,11 +35,15 @@ const partha = {
 }
 ```
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,aws,docker,kubernetes,mongodb,git,figma" alt="Skills" />
+</p>
+
 ---
 
 ### 🚀 Featured builds
 
-- **[DoubtGPT](https://codesof-partha.github.io/#projects)** — curriculum-grounded RAG chatbot (OpenAI + LangChain) resolving student doubts in real time
+- **DoubtGPT** — curriculum-grounded RAG chatbot (OpenAI + LangChain) resolving student doubts in real time
 - **Bhanzu AI Writer** — hackathon-winning OpenAI tool that collapsed a 5-team manual workflow into a 1-minute automated run
 - **Ed-Reels** — OpenAI + Manim pipeline that auto-generates short-form math explainer videos
 - **Bhanzu Platform Suite** — 5 internal platforms (Admin, Student, CLM, LiveOps, Maverick) built from scratch on React/Next.js + microservices
@@ -46,12 +52,13 @@ const partha = {
 
 ---
 
-### 🧩 GitHub Stats & Activity
+### 🧩 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats-dcnm9aw8r-parths-projects-0241f5ab.vercel.app/api?username=CodesOf-Partha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> </br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodesOf-Partha&theme=radical" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodesOf-Partha/CodesOf-Partha/github-metrics/github-metrics.svg" alt="GitHub metrics" width="720"/>
+</p>
+
+<sub>Self-hosted via a scheduled [GitHub Action](.github/workflows/metrics.yml) using <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — regenerated daily and committed straight to this repo, so it never depends on a third-party demo server's uptime.</sub>
 
 ---
 
@@ -63,20 +70,13 @@ const partha = {
 
 ---
 
-### 📈 Dynamic Widgets
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodesOf-Partha&label=Profile%20views&color=0e75b6&style=flat" alt="Partha's profile views"/></br> </br>
-  <img src="https://github-profile-trophy.vercel.app/?username=CodesOf-Partha&theme=radical&margin-w=10&margin-h=15" width="80%"/>
-</p>
-
----
-
 ### 📬 Let's Connect!
 
-Open to senior full-stack and applied-AI roles. Reach out on [LinkedIn](https://www.linkedin.com/in/iampartha/), check out my [portfolio](https://codesof-partha.github.io), or drop a quick [email](mailto:rvparthasarathi@gmail.com).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodesOf-Partha&label=Profile%20views&color=6f7bf7&style=flat-square" alt="Partha's profile views"/>
+</p>
 
----
+Open to senior full-stack and applied-AI roles. Reach out on [LinkedIn](https://www.linkedin.com/in/iampartha/), check out my [portfolio](https://codesof-partha.github.io), or drop a quick [email](mailto:rvparthasarathi@gmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
